@@ -10,3 +10,9 @@ fn main() {
     // 제곱 계산
     println!("{}", v.pow(5678));
 }
+
+// use 사용하지 않고 아래처럼 사용가증
+// fn main() {
+//     let v = num_bigint::BigInt::from(1234);
+//     println!("{}", v.pow(5678));
+// }
