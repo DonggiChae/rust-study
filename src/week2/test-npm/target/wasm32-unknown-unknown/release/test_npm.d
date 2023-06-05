@@ -1,0 +1,1 @@
+/Users/donggichae/Documents/BlockChain/Rust/rust-study/src/week2/test-npm/target/wasm32-unknown-unknown/release/test_npm.wasm: /Users/donggichae/Documents/BlockChain/Rust/rust-study/src/week2/test-npm/src/lib.rs
